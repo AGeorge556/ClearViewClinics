@@ -1,0 +1,74 @@
+{
+  "header": {
+    "title": "Dr. Maged Adly Naguib",
+    "subtitle": "Ophthalmic Surgeon",
+    "switchLanguage": "عربي"
+  },
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "locations": "Locations",
+    "contact": "Contact Us"
+  },
+  "about": {
+    "title": "About Dr. Maged",
+    "description": "Dr. Maged Adly is a board-certified ophthalmologist with over 15 years of experience in diagnosing and treating various eye conditions. He specializes in advanced surgical procedures and comprehensive vision care.",
+    "qualifications": [
+      "Doctorate of Medicine and Ophthalmic Surgery – Ain Shams University",
+      "Fellow of the Royal College of Surgeons – Glasgow, UK",
+      "Fellow of the International Council of Ophthalmology – Cambridge, UK",
+      "Consultant in Ophthalmology and Eye Surgery at the Research Institute of Ophthalmology, Giza"
+    ]
+  },
+  "services": {
+    "title": "Our Services",
+    "items": [
+      {
+        "title": "Ophthalmic Surgery",
+        "description": "Specialized surgeries for various eye conditions and diseases"
+      },
+      {
+        "title": "Cataract Surgery",
+        "description": "Advanced treatment for cataracts, including lens replacement"
+      },
+      {
+        "title": "Glaucoma Treatment",
+        "description": "Diagnosis and management of increased intraocular pressure"
+      },
+      {
+        "title": "Retina and Vitreous Care",
+        "description": "Comprehensive care for retinal diseases and disorders"
+      }
+    ]
+},
+
+"locations": {
+  "title": "Our Clinics",
+  "clinic1": {
+    "name": "Ramsis Clinic",
+    "address": "122 Al-Galaa Street, Ramsis Square, next to Al-Azbakiya Division",
+    "hours": "Sat, Mon, Wed: 8:00 PM - 11:00 PM",
+    "mobile":"Mobile: +2 01552374454",
+    "phone":"Phone: +2 25750443"
+  },
+  "clinic2": {
+    "name": "Heliopolis Clinic",
+    "address": "130 Al-Nozha Street, Triumph Square",
+    "hours": "Tue: 7:00 PM - 10:00 PM; Wed: 3:00 PM - 6:00 PM; Thu: 7:00 PM - 10:00 PM (by prior appointment)",
+    "mobile":"Mobile: +2 01278149403",
+    "phone":"Phone: +2 27758111 "
+  },
+  "clinic3": {
+    "name": "Suez National Eye Hospital",
+    "address": "Thawra Street, Suez Road",
+    "hours": "Sun: 10:00 AM - 12:00 PM",
+    "phone":"Phone: +2 26786900  +2 26966000 "
+  }
+},
+  "contact": {
+    "title": "Contact Us",
+    "phone": "Phone",
+    "email": "Email",
+    "appointment": "Book Appointment"
+  }
+}
