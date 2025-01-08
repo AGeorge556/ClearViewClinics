@@ -23,7 +23,7 @@ function App() {
             <div className="flex items-center space-x-4">
               {/* Logo */}
               <img
-                src="/images/cliniclogo.jpg" 
+                src="public\images\cliniclogo.jpg" 
                 alt="Clinic Logo"
                 className="h-20 w-40"
               />
