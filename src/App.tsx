@@ -23,7 +23,7 @@ function App() {
             <div className="flex items-center space-x-4">
               {/* Logo */}
               <img
-                src="images\cliniclogo.jpg" 
+                src="public\images\cliniclogo.jpg" 
                 alt="Clinic Logo"
                 className="h-20 w-40"
               />
@@ -111,7 +111,7 @@ function App() {
                 ))}
               </ul>
               <img
-                src="images\Dr.Maged.jpeg"
+                src="public\images\doctor.jpg"
                 alt="Doctor"
                 className="rounded-lg shadow-lg h-[600px] object-cover"
               />
