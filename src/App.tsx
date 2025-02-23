@@ -111,7 +111,7 @@ function App() {
                 ))}
               </ul>
               <img
-                src="public\images\doctor.jpg"
+                src="public/images"
                 alt="Doctor"
                 className="rounded-lg shadow-lg h-[600px] object-cover"
               />
